@@ -10,11 +10,11 @@ Contributions to this project must be accompanied by a Contributor License Agree
 
 You generally only need to submit a CLA once, so if you've already submitted one (even if it was for a different project), you probably don't need to do it again.
 
-## Code of conduct
+## Code of Conduct
 
 CODE has adopted "Contributor Covenant Code of Conduct V2.0", participants are expected to follow the guildlines described in [CODE_OF_CONDUCT](https://github.com/codebiet/clubassets/blob/master/CODE_OF_CONDUCT.md)
 
-## Code reviews
+## Code Reviews
 
 Before starting work on a change, comment on one of the open issues saying you'd like to take it on. If one does not exist, you can also create one here.
 
@@ -54,13 +54,13 @@ If all goes well, your pull request will be merged. If it is not merged, maintai
 
 Contributions to CODE Projects is not limited to GitHub. You can help others by sharing your experience using CODE Projects, whether that is through blog posts, presenting talks at conferences, or simply sharing your thoughts on LinkedIn and tagging @codebiet
 
-## Coding guidelines
+## Coding Guidelines
 
-Please see [CODING_CONVENTIONS_STANDARDS](https://github.com/codebiet/clubassets/blob/master/docs/CODING_CONVENTIONS_STANDARDS.md) in this repository for good practices of Coding Styles.
+Please see [CODING_CONVENTIONS_STANDARDS](https://github.com/codebiet/clubassets/blob/master/CODING_CONVENTIONS_STANDARDS.md) in this repository for good practices of Coding Styles.
 
 ## Good Pull Request
 
-Please see [PR_GUIDELINES](https://github.com/codebiet/clubassets/blob/master/docs/PR_GUIDELINES.md) in this repository for good practices of Pull Requests.
+Please see [PR_GUIDELINES](https://github.com/codebiet/clubassets/blob/master/PR_GUIDELINES.md) in this repository for good practices of Pull Requests.
 
 ## Reporting Security Issues
 
