@@ -3,7 +3,7 @@ This Repository contain club stuff related to Guidelines, Best Practices, Code o
 
 ## Code of Conduct
 
-CODE has adopted "Contributor Covenant Code of Conduct V2.0", participants are expected to follow the guildelines described in [CODE_OF_CONDUCT](https://github.com/codebiet/clubassets/blob/master/CODE_OF_CONDUCT.md)
+CODE has adopted "Contributor Covenant Code of Conduct V2.0", participants are expected to follow the guidelines described in [CODE_OF_CONDUCT](https://github.com/codebiet/clubassets/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contributing
 
